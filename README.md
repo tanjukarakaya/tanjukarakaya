@@ -2,6 +2,6 @@
 - 👀 I'm software developer
 - 🌱 I’m currently learning english
 - 💞️ I love my job
-- 📫 How to reach me, tanjukarakayamac@icloud.com
+- 📫 How to reach me, tanjukarakaya@outlook.com
 
 Thanks.
