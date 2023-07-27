@@ -1,9 +1,7 @@
 <!--
 --->  
 
-<h1 align="center"> 🙋🏻‍♂️ HI THERE </h1>
-
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h1 align="center">Hi There, 👨‍💻 Whoami</h1>
 
 <p align="center">
   <samp>Hi everyone, i'm Tanju. I'm just coding, that's it. 🕺🏻
@@ -23,15 +21,6 @@
         <img src="https://img.shields.io/badge/ORACLE-2300D9FF?style=for-the-badge&logo=oracle&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/ANDROID%20STUDIO-2300D9FF?style=for-the-badge&logo=androidstudio&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;        
 
-
-</p>
-<p align="center">HTML5, CSS3, Python3, GitHub, Docker, Linux, Nginx </p>
-
-<hr>
-
-<h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://t.me/b4dcat404"><img src="https://img.shields.io/badge/telegram-%231572B6.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> <a target="_blank"href="https://dev.to/vi_dev0"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 </p>
 
