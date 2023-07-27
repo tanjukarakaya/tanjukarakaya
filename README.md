@@ -31,8 +31,3 @@
   <a href="mailto:tanjukarakaya@outlook.com?subject=Hello%20Tanju,%20From%20Github">
    <img src="https://img.shields.io/badge/Outlook-2300D9FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=blue"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
- <br>
-
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
