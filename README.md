@@ -4,7 +4,7 @@
 <h1 align="center"> 🙋🏻‍♂️ HI THERE </h1>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tanjukarakaya&style=flat-square&color=blue"></p>
+
 <p align="center">
   <samp>Hi everyone, i'm Tanju. I'm just coding, that's it. 🕺🏻
   </samp>
