@@ -18,11 +18,15 @@
 
 <h2 align="center"> 🔭 Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-2300D9FF?style=for-the-badge&logo=html5&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML-2300D9FF.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3%20-%23D14836.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Github%20-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker%20-%231572B6.svg?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-2300D9FF?style=for-the-badge&logo=html5&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/C%23-2300D9FF?style=for-the-badge&logo=csharp&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/.NET-2300D9FF?style=for-the-badge&logo=.net&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/MSSQL-2300D9FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JAVASCRIPT-2300D9FF?style=for-the-badge&logo=javascript&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/ORACLE-2300D9FF?style=for-the-badge&logo=oracle&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/ANDROID%20STUDIO-2300D9FF?style=for-the-badge&logo=androidstudio&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;        
+
+
 </p>
 <p align="center">HTML5, CSS3, Python3, GitHub, Docker, Linux, Nginx </p>
 
