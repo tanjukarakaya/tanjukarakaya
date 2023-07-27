@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tanjukarakaya0&style=flat-square&color=yellow"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tanjukarakaya&style=flat-square&color=blue"></p>
 <p align="center">
   <samp>The programmer is self-taught. I started with website development and CRM implementation. 
 I have extensive experience in marketing and SEO. At the moment I am studying Python and automating 
