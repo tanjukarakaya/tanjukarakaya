@@ -2,14 +2,12 @@
 --->  
 
 <h1 align="center">Hi There, 👨‍💻 Whoami</h1>
-
+ <br>
 <p align="center">
   <samp>Hi everyone, i'm Tanju. I'm just coding, that's it. 🕺🏻
   </samp>
   <br> <br>
 </p>
-
-
 
 <h2 align="center"> 🔭 Tools</h2>
 <p align="center">
