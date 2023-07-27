@@ -1,7 +1,7 @@
 <!--
 --->  
 
-<h1 align="center"> 👋 HI THERE </h1>
+<h1 align="center"> 🙋🏻‍♂️ HI THERE </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 </div>
@@ -9,10 +9,7 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tanjukarakaya&style=flat-square&color=blue"></p>
 <p align="center">
-  <samp>The programmer is self-taught. I started with website development and CRM implementation. 
-I have extensive experience in marketing and SEO. At the moment I am studying Python and automating 
-business processes of various organizations in my hometown, creating telegram bots for the development 
-of the <a href="https://t.me/b4dcat404" target="_blank">Telegram channel</a>
+  <samp>Hi everyone, i'm Tanju. I'm just coding, that's it. 🕺🏻
   </samp>
   <br> <br>
 </p>
@@ -21,7 +18,7 @@ of the <a href="https://t.me/b4dcat404" target="_blank">Telegram channel</a>
 
 <h2 align="center"> 🔭 Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python3%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python3.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML%20-%2300D9FF.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3%20-%23D14836.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Github%20-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;
