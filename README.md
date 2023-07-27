@@ -18,7 +18,7 @@
 
 <h2 align="center"> 🔭 Tools</h2>
 <p align="center">
-  https://img.shields.io/badge/HTML-2300D9FF?style=for-the-badge&logo=html5&logoColor=white&color=black&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-2300D9FF?style=for-the-badge&logo=html5&logoColor=white"&color=black&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML%20-%2300D9FF.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3%20-%23D14836.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Github%20-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;
