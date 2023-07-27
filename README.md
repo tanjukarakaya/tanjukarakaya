@@ -2,9 +2,6 @@
 --->  
 
 <h1 align="center"> 🙋🏻‍♂️ HI THERE </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
-</div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tanjukarakaya&style=flat-square&color=blue"></p>
