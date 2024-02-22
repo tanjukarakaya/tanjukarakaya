@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/JAVASCRIPT-2300D9FF?style=for-the-badge&logo=javascript&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/ORACLE-2300D9FF?style=for-the-badge&logo=oracle&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/ANDROID%20STUDIO-2300D9FF?style=for-the-badge&logo=androidstudio&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;        
+                <img src="https://img.shields.io/badge/NODE%20JS-2300D9FF?style=for-the-badge&logo=androidstudio&logoColor=white&color=black"/>&nbsp;&nbsp;&nbsp;        
 
 
 </p>
